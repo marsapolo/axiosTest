@@ -20,3 +20,4 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # axiosTest
+近期在学习axios,在网上查找了个一些优质的文章，这个例子就是把文章里面的代码实现了。
